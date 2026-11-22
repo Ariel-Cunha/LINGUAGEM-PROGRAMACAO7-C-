@@ -1,0 +1,15 @@
+J:\JOZZ NÉ\UNIKIVI\4º Ano\1º SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO VII\TRABALHOS\TRABALHO 01 - ARIEL\SistemaFaturacao\bin\Debug\net10.0\SistemaFaturacao.exe
+J:\JOZZ NÉ\UNIKIVI\4º Ano\1º SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO VII\TRABALHOS\TRABALHO 01 - ARIEL\SistemaFaturacao\bin\Debug\net10.0\SistemaFaturacao.deps.json
+J:\JOZZ NÉ\UNIKIVI\4º Ano\1º SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO VII\TRABALHOS\TRABALHO 01 - ARIEL\SistemaFaturacao\bin\Debug\net10.0\SistemaFaturacao.runtimeconfig.json
+J:\JOZZ NÉ\UNIKIVI\4º Ano\1º SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO VII\TRABALHOS\TRABALHO 01 - ARIEL\SistemaFaturacao\bin\Debug\net10.0\SistemaFaturacao.dll
+J:\JOZZ NÉ\UNIKIVI\4º Ano\1º SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO VII\TRABALHOS\TRABALHO 01 - ARIEL\SistemaFaturacao\bin\Debug\net10.0\SistemaFaturacao.pdb
+J:\JOZZ NÉ\UNIKIVI\4º Ano\1º SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO VII\TRABALHOS\TRABALHO 01 - ARIEL\SistemaFaturacao\obj\Debug\net10.0\SistemaFaturacao.GeneratedMSBuildEditorConfig.editorconfig
+J:\JOZZ NÉ\UNIKIVI\4º Ano\1º SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO VII\TRABALHOS\TRABALHO 01 - ARIEL\SistemaFaturacao\obj\Debug\net10.0\SistemaFaturacao.AssemblyInfoInputs.cache
+J:\JOZZ NÉ\UNIKIVI\4º Ano\1º SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO VII\TRABALHOS\TRABALHO 01 - ARIEL\SistemaFaturacao\obj\Debug\net10.0\SistemaFaturacao.AssemblyInfo.cs
+J:\JOZZ NÉ\UNIKIVI\4º Ano\1º SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO VII\TRABALHOS\TRABALHO 01 - ARIEL\SistemaFaturacao\obj\Debug\net10.0\SistemaFaturacao.csproj.CoreCompileInputs.cache
+J:\JOZZ NÉ\UNIKIVI\4º Ano\1º SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO VII\TRABALHOS\TRABALHO 01 - ARIEL\SistemaFaturacao\obj\Debug\net10.0\SistemaFaturacao.dll
+J:\JOZZ NÉ\UNIKIVI\4º Ano\1º SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO VII\TRABALHOS\TRABALHO 01 - ARIEL\SistemaFaturacao\obj\Debug\net10.0\refint\SistemaFaturacao.dll
+J:\JOZZ NÉ\UNIKIVI\4º Ano\1º SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO VII\TRABALHOS\TRABALHO 01 - ARIEL\SistemaFaturacao\obj\Debug\net10.0\SistemaFaturacao.pdb
+J:\JOZZ NÉ\UNIKIVI\4º Ano\1º SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO VII\TRABALHOS\TRABALHO 01 - ARIEL\SistemaFaturacao\obj\Debug\net10.0\SistemaFaturacao.genruntimeconfig.cache
+J:\JOZZ NÉ\UNIKIVI\4º Ano\1º SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO VII\TRABALHOS\TRABALHO 01 - ARIEL\SistemaFaturacao\obj\Debug\net10.0\ref\SistemaFaturacao.dll
+J:\JOZZ NÉ\UNIKIVI\4º Ano\1º SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO VII\TRABALHOS\TRABALHO 01 - ARIEL\SistemaFaturacao\obj\Debug\net10.0\SistemaF.5DB19CC8.Up2Date
